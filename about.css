@@ -1,0 +1,12 @@
+@charset "utf-8";
+body p {
+    text-align: center;
+    font-size: 20px;
+}
+body h1 {
+    text-align: center;
+}
+body table {
+    margin-right: auto;
+    margin-left: auto;
+}
